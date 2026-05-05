@@ -13,7 +13,7 @@ Sistema de prediccion de accidentes cerebrovasculares (stroke) desarrollado en t
 
 
 ## ESTRUCTURA DEL REPOSITORIO
-
+```
 acif104_s9_grupo04_Arganaraz_Ferrada_Gonzalez/
 ├── datasets/
 │   └── healthcare-dataset-stroke-data.csv   # Dataset original de Kaggle
@@ -36,7 +36,7 @@ acif104_s9_grupo04_Arganaraz_Ferrada_Gonzalez/
 │   ├── shap_importancia.png
 │   └── shap_detalle.png
 └── README.md
-
+```
 
 ## DATASET
 
